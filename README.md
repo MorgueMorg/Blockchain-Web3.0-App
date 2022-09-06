@@ -6,4 +6,4 @@
 
 ## Intoduction
 
-A fully responsive beautiful modern web 3.0 application made for cryptocurrency transfer using blockchain (metamask), written in react with using vite, solidity and tailwindcss.
+A fully responsive beautiful modern web 3.0 application made for cryptocurrency transfer using blockchain (metamask), written on react with using vite, solidity and tailwindcss.
